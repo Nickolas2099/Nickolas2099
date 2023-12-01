@@ -6,8 +6,8 @@ https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logo
 ---
 ## 🧑‍💻 About me:
 
-* 🖥 studying programming almost 2 years
-* 🍵 Learning java about 1 year
+* 🖥 study programming for about 2 years
+* 🍵 learn java more than a year
 * 🔭 I’m currently working on something new
 * 📚 I am a 4th year student at the College of Business and Law majoring in software
 <!--
