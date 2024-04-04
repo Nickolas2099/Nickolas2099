@@ -1,15 +1,16 @@
 # Hello there 👋
 ![
 Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Git](
-https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	
+https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CodeWars](https://www.codewars.com/users/Nickolas2099/badges/small)
 ---
 ## 🧑‍💻 About me:
 
-* 🖥 study programming for about 2 years
+* 🖥 study programming for about 3 years
 * 🍵 learn java more than a year
 * 🔭 I’m currently working on something new
 * 📚 I am a 4th year student at the College of Business and Law majoring in software
+* 📫 How to reach me: email - antonenkonicolai@gmail.com, linkedin - https://www.linkedin.com/in/nicolai-antonenko-dev/
 <!--
 **Nickolas2099/Nickolas2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
