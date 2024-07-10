@@ -8,8 +8,8 @@ https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logo
 
 * 🖥 study programming for about 3 years
 * 🍵 learn java more than a year
-* 🔭 I’m currently working on something new
-* 📚 I am a 4th year student at the College of Business and Law majoring in software
+* 🔭 I’m currently looking for a new job
+* 📚 Constantly learn something new
 * 📫 How to reach me: email - antonenkonicolai@gmail.com, linkedin - https://www.linkedin.com/in/nicolai-antonenko-dev/
 <!--
 **Nickolas2099/Nickolas2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
