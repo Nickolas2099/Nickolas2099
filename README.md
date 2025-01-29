@@ -8,7 +8,7 @@ https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logo
 
 * 🖥 study programming for about 3 years
 * 🍵 learn java more than a year
-* 🔭 I’m currently looking for a new job
+<!-- * 🔭 I’m currently looking for a new job -->
 * 📚 Constantly learn something new
 * 📫 How to reach me: email - antonenkonicolai@gmail.com, linkedin - https://www.linkedin.com/in/nicolai-antonenko-dev/
 <!--
