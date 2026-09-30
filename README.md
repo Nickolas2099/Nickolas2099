@@ -16,16 +16,14 @@ TOOLS
 ![CodeWars](https://www.codewars.com/users/Nickolas2099/badges/large)
 ---
 ## About me 🧑‍💻:
-
-* 🚀 currently looking for new project
-* 🖥 study programming more than 3 years
 * 📚 constantly learn something new
 * 📫 how to reach me: email - antonenkonicolai@gmail.com
 <!--
 **Nickolas2099/Nickolas2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+* 🚀 currently looking for new project
+* 🖥 study programming more than 3 years
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
